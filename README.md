@@ -50,7 +50,7 @@ pandas → Structures and exports data
 
 The script filters anchor tags containing /news in their URL to collect relevant BBC News articles.
 
-📊 Output
+###📊 Output
 
 The scraped data is saved as:
 
@@ -64,7 +64,7 @@ Date (currently set as "N/A")
 
 Link
 
-▶ How to Run
+###▶ How to Run
 
 Install required libraries:
 
@@ -76,7 +76,7 @@ python bbc_scraper.py
 
 Output CSV file will be generated automatically.
 
-📈 Skills Demonstrated
+###📈 Skills Demonstrated
 
 Web scraping fundamentals
 
@@ -88,12 +88,12 @@ Data export using Pandas
 
 Automation scripting
 
-⚠ Note
+###⚠ Note
 
 This scraper is for educational purposes only.
 Always respect website terms of service and robots.txt policies when scraping websites.
 
-🏁 Conclusion
+###🏁 Conclusion
 
 This project demonstrates practical skills in data extraction and automation.
 The extracted data can be further used for:
