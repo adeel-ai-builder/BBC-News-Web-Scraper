@@ -1,4 +1,4 @@
-# 📰 BBC News Web Scraper
+# 📰 BBC News Web Scraper mini project 1
 
 This project is a simple and efficient **web scraping tool** built using Python.  
 It extracts the latest news headlines from the BBC News website and stores them in a structured CSV file for further analysis.
